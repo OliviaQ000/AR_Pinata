@@ -2129,7 +2129,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1337418135}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 5775092603183457437, guid: 7abc661aaa5ca094392e162f0405d94a, type: 3}
+        m_TargetAssemblyTypeName: StoryController, Assembly-CSharp
+        m_MethodName: ToggleStory
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1337418135
 MonoBehaviour:
   m_ObjectHideFlags: 0
