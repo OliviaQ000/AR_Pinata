@@ -3438,8 +3438,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sfxClip:
-  - {fileID: 8300000, guid: 1e95f5a3d1314f64e9afd4318cc89787, type: 3}
-  - {fileID: 8300000, guid: 47377ef2d95874a4fbcd5ff8ca4c2e0d, type: 3}
+  - {fileID: 8300000, guid: bf93b4fdad47b6a45967d51e46df1f88, type: 3}
+  - {fileID: 8300000, guid: 633938cd497b71d4ab5ddd4fc1cf39d4, type: 3}
   sfxSource: {fileID: 1400514827}
 --- !u!82 &1400514827
 AudioSource:
